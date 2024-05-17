@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right,#686FE8,#AF68E8);
+}
+header {
+    background-color: #6E1717;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    
+}
+.oda {
+    background-color: #7EFBFC;
+}
+.odaa {
+ background-color: #B9F9E2;
+ font-size: 20px;   
+}
+header a {
+    color: beige;
+}
+.odaa a {
+    color: #4D00D6;
+}
